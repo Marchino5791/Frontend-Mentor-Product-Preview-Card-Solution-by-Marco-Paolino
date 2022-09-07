@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![/Screenshot Product-Preview-Card-solution.png] ./Screenshot Product-Preview-Card-solution.png
+![Product Preview Card My Solution] (./Screenshot Product-Preview-Card-solution.png)
 
 ### Links
 
