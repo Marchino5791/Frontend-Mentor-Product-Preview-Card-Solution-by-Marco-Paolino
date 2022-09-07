@@ -89,6 +89,12 @@ table {
   width: 100%;
 }
 
+@media (max-height: 600px) {
+  .attribution {
+    display: none;
+  }
+}
+
 /* footer link */
 .attribution a {
   color: hsl(228, 45%, 44%);
@@ -125,6 +131,11 @@ table {
   border: none;
 }
 
+.add-to-cart-botton:active{
+    background-color: hsl(158, 36%, 17%);
+}
+
+
 /* -------------------- Mobile version -------------------- */
 @media (max-width: 600px) {
   body {
@@ -160,5 +171,6 @@ table {
 
   .attribution {
     position: inherit;
+    display: inherit;
   }
 }
