@@ -77,6 +77,8 @@ I learned to center verticaly a div using position and to use properly display f
   }
 }
 
+I have also learned about accessibility: ARIA label and role.
+
 ### Continued development
 
 I'm going to focusing on creating more complex, flexible and responsive layout.
