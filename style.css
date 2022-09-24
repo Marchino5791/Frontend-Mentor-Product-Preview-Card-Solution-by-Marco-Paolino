@@ -47,12 +47,6 @@ body {
   line-height: 1.5rem;
 }
 
-.add-to-cart-link {
-  font-weight: 700;
-  color: hsl(0, 0%, 100%);
-  text-decoration: none;
-}
-
 /* ---------- Div ---------- */
 .main {
   background-color: hsl(0, 0%, 100%);
@@ -129,6 +123,10 @@ table {
   vertical-align: middle;
   border-radius: 10px;
   border: none;
+  line-height: 3rem;
+  font-weight: 700;
+  color: hsl(0, 0%, 100%);
+  text-decoration: none;
 }
 
 .add-to-cart-botton:active{
