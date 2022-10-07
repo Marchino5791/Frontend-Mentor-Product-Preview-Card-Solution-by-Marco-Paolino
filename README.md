@@ -87,3 +87,4 @@ I'm going to focusing on creating more complex, flexible and responsive layout.
 ## Author
 
 - Frontend Mentor - [@Marchino5791](https://www.frontendmentor.io/profile/Marchino5791)
+- LinkedIn - [@Marco Antonio Paolino](https://www.linkedin.com/in/marco-paolino/)
