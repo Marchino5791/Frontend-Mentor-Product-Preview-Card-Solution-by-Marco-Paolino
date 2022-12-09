@@ -33,7 +33,6 @@ Users should be able to:
 
 - HTML
 - CSS
-- Mobile-first workflow
 
 ### What I learned
 
